@@ -1,0 +1,36 @@
+C:\Users\Carlj\source\repos\URS Canteen Sales and Inventory\URS Canteen Sales and Inventory\bin\Debug\URS Canteen Sales and Inventory.exe.config
+C:\Users\Carlj\source\repos\URS Canteen Sales and Inventory\URS Canteen Sales and Inventory\bin\Debug\URS Canteen Sales and Inventory.exe
+C:\Users\Carlj\source\repos\URS Canteen Sales and Inventory\URS Canteen Sales and Inventory\bin\Debug\URS Canteen Sales and Inventory.pdb
+C:\Users\Carlj\source\repos\URS Canteen Sales and Inventory\URS Canteen Sales and Inventory\obj\Debug\URS_Canteen_Sales_and_Inventory.Form1.resources
+C:\Users\Carlj\source\repos\URS Canteen Sales and Inventory\URS Canteen Sales and Inventory\obj\Debug\URS_Canteen_Sales_and_Inventory.Properties.Resources.resources
+C:\Users\Carlj\source\repos\URS Canteen Sales and Inventory\URS Canteen Sales and Inventory\obj\Debug\URS Canteen Sales and Inventory.csproj.GenerateResource.cache
+C:\Users\Carlj\source\repos\URS Canteen Sales and Inventory\URS Canteen Sales and Inventory\obj\Debug\URS Canteen Sales and Inventory.exe
+C:\Users\Carlj\source\repos\URS Canteen Sales and Inventory\URS Canteen Sales and Inventory\obj\Debug\URS Canteen Sales and Inventory.pdb
+C:\Users\Carlj\source\repos\URS Canteen Sales and Inventory\URS Canteen Sales and Inventory\obj\Debug\URS_Canteen_Sales_and_Inventory.Form2.resources
+C:\Users\Carlj\source\repos\URS Canteen Sales and Inventory\URS Canteen Sales and Inventory\obj\Debug\URS_Canteen_Sales_and_Inventory.Form3.resources
+C:\Users\Carlj\source\repos\URS Canteen Sales and Inventory\URS Canteen Sales and Inventory\obj\Debug\URS_Canteen_Sales_and_Inventory.Form4.resources
+C:\Users\Carlj\source\repos\URS Canteen Sales and Inventory\URS Canteen Sales and Inventory\obj\Debug\URS_Canteen_Sales_and_Inventory.Form6.resources
+C:\Users\Carlj\source\repos\URS Canteen Sales and Inventory\URS Canteen Sales and Inventory\obj\Debug\URS_Canteen_Sales_and_Inventory.Form7.resources
+C:\Users\Carlj\source\repos\URS Canteen Sales and Inventory\URS Canteen Sales and Inventory\obj\Debug\URS_Canteen_Sales_and_Inventory.Form8.resources
+C:\Users\Carlj\source\repos\URS Canteen Sales and Inventory\URS Canteen Sales and Inventory\bin\Debug\MySql.Data.dll
+C:\Users\Carlj\source\repos\URS Canteen Sales and Inventory\URS Canteen Sales and Inventory\bin\Debug\MySql.Data.xml
+C:\Users\Carlj\source\repos\URS Canteen Sales and Inventory\URS Canteen Sales and Inventory\obj\Debug\URS Canteen Sales and Inventory.csproj.CopyComplete
+C:\Users\Carlj\source\repos\URS Canteen Sales and Inventory\URS Canteen Sales and Inventory\obj\Debug\URS_Canteen_Sales_and_Inventory.Form5.resources
+C:\Users\Carlj\OneDrive\Desktop\Comprog\URS Canteen Sales and Inventory\URS Canteen Sales and Inventory\bin\Debug\URS Canteen Sales and Inventory.exe.config
+C:\Users\Carlj\OneDrive\Desktop\Comprog\URS Canteen Sales and Inventory\URS Canteen Sales and Inventory\bin\Debug\URS Canteen Sales and Inventory.exe
+C:\Users\Carlj\OneDrive\Desktop\Comprog\URS Canteen Sales and Inventory\URS Canteen Sales and Inventory\bin\Debug\URS Canteen Sales and Inventory.pdb
+C:\Users\Carlj\OneDrive\Desktop\Comprog\URS Canteen Sales and Inventory\URS Canteen Sales and Inventory\bin\Debug\MySql.Data.dll
+C:\Users\Carlj\OneDrive\Desktop\Comprog\URS Canteen Sales and Inventory\URS Canteen Sales and Inventory\bin\Debug\MySql.Data.xml
+C:\Users\Carlj\OneDrive\Desktop\Comprog\URS Canteen Sales and Inventory\URS Canteen Sales and Inventory\obj\Debug\URS_Canteen_Sales_and_Inventory.Form1.resources
+C:\Users\Carlj\OneDrive\Desktop\Comprog\URS Canteen Sales and Inventory\URS Canteen Sales and Inventory\obj\Debug\URS_Canteen_Sales_and_Inventory.Form2.resources
+C:\Users\Carlj\OneDrive\Desktop\Comprog\URS Canteen Sales and Inventory\URS Canteen Sales and Inventory\obj\Debug\URS_Canteen_Sales_and_Inventory.Form3.resources
+C:\Users\Carlj\OneDrive\Desktop\Comprog\URS Canteen Sales and Inventory\URS Canteen Sales and Inventory\obj\Debug\URS_Canteen_Sales_and_Inventory.Form4.resources
+C:\Users\Carlj\OneDrive\Desktop\Comprog\URS Canteen Sales and Inventory\URS Canteen Sales and Inventory\obj\Debug\URS_Canteen_Sales_and_Inventory.Form5.resources
+C:\Users\Carlj\OneDrive\Desktop\Comprog\URS Canteen Sales and Inventory\URS Canteen Sales and Inventory\obj\Debug\URS_Canteen_Sales_and_Inventory.Form6.resources
+C:\Users\Carlj\OneDrive\Desktop\Comprog\URS Canteen Sales and Inventory\URS Canteen Sales and Inventory\obj\Debug\URS_Canteen_Sales_and_Inventory.Form7.resources
+C:\Users\Carlj\OneDrive\Desktop\Comprog\URS Canteen Sales and Inventory\URS Canteen Sales and Inventory\obj\Debug\URS_Canteen_Sales_and_Inventory.Form8.resources
+C:\Users\Carlj\OneDrive\Desktop\Comprog\URS Canteen Sales and Inventory\URS Canteen Sales and Inventory\obj\Debug\URS_Canteen_Sales_and_Inventory.Properties.Resources.resources
+C:\Users\Carlj\OneDrive\Desktop\Comprog\URS Canteen Sales and Inventory\URS Canteen Sales and Inventory\obj\Debug\URS Canteen Sales and Inventory.csproj.GenerateResource.cache
+C:\Users\Carlj\OneDrive\Desktop\Comprog\URS Canteen Sales and Inventory\URS Canteen Sales and Inventory\obj\Debug\URS Canteen Sales and Inventory.csproj.CopyComplete
+C:\Users\Carlj\OneDrive\Desktop\Comprog\URS Canteen Sales and Inventory\URS Canteen Sales and Inventory\obj\Debug\URS Canteen Sales and Inventory.exe
+C:\Users\Carlj\OneDrive\Desktop\Comprog\URS Canteen Sales and Inventory\URS Canteen Sales and Inventory\obj\Debug\URS Canteen Sales and Inventory.pdb
